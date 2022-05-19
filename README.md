@@ -1,3 +1,5 @@
+Note: This app was originally cloned for skeleton course from App Brewery
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Egg Timer
